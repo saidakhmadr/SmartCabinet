@@ -1,0 +1,3 @@
+﻿  SmartCabinetCV.cpp
+D:\OpenAI\OpenAI\SmartCabinetCV.cpp(122,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  OpenAI.vcxproj -> D:\OpenAI\x64\Debug\OpenAI.exe
